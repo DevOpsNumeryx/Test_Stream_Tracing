@@ -1,1 +1,2 @@
 HTMLPage.html filter=lfs diff=lfs merge=lfs -text lockable
+file2.txt filter=lfs diff=lfs merge=lfs -text lockable
